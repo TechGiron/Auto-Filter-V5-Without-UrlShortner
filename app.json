@@ -15,23 +15,23 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Cyniteofficial/Auto-Filter-V5",
-    "repository": "https://github.com/Cyniteofficial/Auto-Filter-V5",
+    "website": "https://github.com/TechGiron/Auto-Filter-V5-Without-UrlShortner",
+    "repository": "https://github.com/TechGiron/Auto-Filter-V5-Without-UrlShortner",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "5707227554:AAEzEF36nfH_g9X1Ud60WJYirx3kAacwALM",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "17030067",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "df64deb205933fbe14e50237b5ab68f2",
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "description": "-1001863131811",
             "required": false
         },
         "SUPPORT_GROUP": {
@@ -43,39 +43,39 @@
             "required": true
         },
         "FILE_CHANNEL": {
-            "description": "File Channel Id",
+            "description": "-1001863131811",
             "required": true
         },
         "FILE_CHANNEL_LINK": {
-            "description": "File Channel Link",
+            "description": "https://t.me/adlinkfy",
             "required": true
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "5503019033",
             "required": true
         },
         "PICS": {
-            "description": "Add some telegraph link of pictures .",
+            "description": "https://telegra.ph/file/a47fc7a9fda615ec5d4fd.jpg",
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1001863131811",
             "required": true
         },
         "AUTH_USERS": {
-            "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
+            "description": "5503019033",
             "required": false
         },
         "AUTH_CHANNEL": {
-            "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
+            "description": "1001863131811",
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com.",
+            "description": "mongodb+srv://Guardian:JqyRJGtgStbLxd1i@cluster0.et8uipq.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "Name of the database in mongoDB.",
+            "description": "cluster0",
             "required": false
         },
         "COLLECTION_NAME": {
